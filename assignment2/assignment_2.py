@@ -7,17 +7,48 @@ Original file is located at
     https://colab.research.google.com/drive/1cU8_2KYki1m0SRdWYl_Mzsm28ReLbyy_
 """
 
-# Commonly used imports.
+# Commonly used variables.
 book_chapter = "/content/drive/MyDrive/Uni/DH/Sapir1921_chapter1.txt" # Acquire the content of the e-book
 stop_words_list = "/content/drive/MyDrive/Uni/DH/stopwordlist.txt" # Acquires the stop words.
 
-### Helper functions. ###
-
+# Helper function to print out statements.
+# @ Credit: Previous assignment.
 def get_pretty_ouptut(explanation_str: str, result_str: str):
   print(f'{explanation_str}: {result_str}')
 
+# Helper function to split a text into sentences.
+# @ Credit: Previous assignment.
 def split_text_into_sentences(text_content: str):
   return text_content.split(".") # Split the text using a full stop.
+
+#### Return the stop word list. #####
+# @Credit: Previous coding assignment.
+def create_stop_word_list_from_file(stop_word_list_file: str):
+  with open(stop_word_list_file, 'r', encoding="utf-16") as file:
+      stop_words = [] # Create an empty list.
+      words = file.read() # Read the file.
+      stop_words = words.split() # Split the text into words/list.
+      return stop_words
+
+# Helper function for converting all words to lowercase.
+# @Credit: Previous coding assignment.
+def convert_words_to_lowercase(file_to_read: str):
+  with open(file_to_read, 'r') as file:
+    contents = file.read() # Read the file.
+    lower_case_words = contents.lower().split() # Turn the text to lowercase and then split it.
+    return lower_case_words
+
+# Convert all words to lowercase.
+# Remove stop words.
+# Return a cleaned list of words.
+# @Credit: Previous coding assignment.
+def process_text_for_frequency(text_content: str, stop_words_list):
+  cleaned_text_list = [] # Empty variable that is to be used later.
+  lower_case_words_list = convert_words_to_lowercase(text_content) # Convert all words to lowercase.
+  for word in lower_case_words_list: # Iterate through the lower case words list.
+    if word not in stop_words_list: # Condition that checks if the items in the list are not part of the stop words list.
+      cleaned_text_list.append(word) # Add item to the cleaned text list if not part of the stop words list.
+  return cleaned_text_list
 
 #### Find and extract the longest sentence. ####
 # 1. Take the full text from a file as input.
@@ -42,7 +73,7 @@ def find_longest_word(file_to_read: str):
   with open(file_to_read, 'r') as file:
       text_content = file.read() # Read the file.
       words = text_content.split() # Split the text into words.
-      return max(words, key=len).strip()
+      return max(words, key=len).strip() # Get the maximum word in terms of length.
 
 #### Return stop word list. #####
 # @Credit: Previous coding assignment.
@@ -67,8 +98,8 @@ def process_text_for_frequency(text_content: str, stop_words_list):
   cleaned_text_list = [] # Empty variable that is to be used later.
   lower_case_words_list = convert_words_to_lowercase(text_content) # Convert all words to lowercase.
   for word in lower_case_words_list: # Iterate through the lower case words list.
-    if word not in stop_words_list: # Condition that checks if the items in the list are not part of the stop words list.
-      cleaned_text_list.append(word) # Add item to the cleaned text list if not part of the stop words list.
+    if word not in stop_words_list: # Condition that checks if the words in the list are not part of the stop words list.
+      cleaned_text_list.append(word) # Add a word to the cleaned text list if not part of the stop words list.
   return cleaned_text_list
 
 #### Calculate the top frequencies in a given list. #####
@@ -77,19 +108,24 @@ def process_text_for_frequency(text_content: str, stop_words_list):
 # 3 Return the Top Five words with their counts, including any tied words.
 # 4 Print the results in your program
 # @ Credit: https://labex.io/tutorials/python-how-to-use-set-to-count-element-frequencies-in-a-python-list-398089
+# as well as the previous coding assignment.
 def get_top_five_frequencies(cleaned_word_list):
   all_frequencies = get_all_frequencies(cleaned_up_text)
-  sorted_frequencies = sorted(all_frequencies.items(), key=lambda x: x[1], reverse=True)
+  # @Credit: https://www.geeksforgeeks.org/python/python-program-to-sort-the-list-according-to-the-column-using-lambda/
+  # and: https://www.geeksforgeeks.org/python/python-lambda-anonymous-functions-filter-map-reduce/
+  # for a better way to explain the line of code below. More specifically, a lambda function is a
+  # a neater way of checking for conditions, specifically using a function that has no name.
+  sorted_frequencies = sorted(all_frequencies.items(), key=lambda x: x[1], reverse=True) # x[1] sorts the second elements in the tuple, which is the count of frequencies each word has.
   print("The top five frequencies in the text are: ")
-  return sorted_frequencies[:5]
+  return sorted_frequencies[:5] # Returns the top five frequencies, using array slicing: https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/.
 
 
 # Helper function to get the word frequencies of the entire list.
 # @Credit: https://www.geeksforgeeks.org/python/counting-the-frequencies-in-a-list-using-dictionary-in-python/
 def get_all_frequencies(cleaned_word_list):
-  word_frequencies = {}
+  word_frequencies = {} # Creates an empty dictionary. https://www.w3schools.com/python/python_dictionaries.asp.
   for word in cleaned_word_list:
-     word_frequencies[word] = word_frequencies.get(word, 0) + 1
+     word_frequencies[word] = word_frequencies.get(word, 0) + 1 # The following lines return the current count of word or zero if it doesn’t exist. "+1" increases the count.
   return word_frequencies
 
 # Test the functions above.
