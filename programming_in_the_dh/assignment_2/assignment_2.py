@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Commonly used variables.
-book_chapter = "/content/drive/MyDrive/Uni/DH/Sapir1921_chapter1.txt" # Acquire the content of the e-book
+book_chapter = "/content/drive/MyDrive/Uni/DH/Sapir1921_chapter1.txt" # Acquires the content of the e-book.
 stop_words_list = "/content/drive/MyDrive/Uni/DH/stopwordlist.txt" # Acquires the stop words.
 
 # Helper function to print out statements.
