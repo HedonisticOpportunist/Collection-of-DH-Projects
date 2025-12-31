@@ -51,7 +51,7 @@ def open_file_and_handle_encoding(file_path: str, encoding: bool, encoding_used:
 def convert_words_to_lowercase(file_contents: str, encoding: bool, encoding_used):
     contents = open_file_and_handle_encoding(file_contents, encoding, encoding_used) # Handle different file encodings.
     lower_case_words = contents.lower().split() # Turn the text to lowercase and then split it.
-    return lower_case_words
+    return lower_case_words # Return the lower case words.
 
 #### Processing and cleaning the texts. ####
 # @Credit: Previous coding assignments.
