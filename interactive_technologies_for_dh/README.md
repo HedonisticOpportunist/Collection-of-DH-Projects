@@ -2,7 +2,7 @@
 
 ## Links to Videos
 
-### Digital tools - Chroma Keyin
+### Digital tools - Chroma Keying
 
 [Chroma Key Video](https://www.youtube.com/watch?v=QQv_5pRieIE)
 
