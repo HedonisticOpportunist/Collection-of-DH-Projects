@@ -1,7 +1,8 @@
 /*
-Code modifieed from https://editor.p5js.org/ml5/sketches/QGH3dwJ1A. 
+Code modified from https://editor.p5js.org/ml5/sketches/QGH3dwJ1A. 
 */
 
+// Commonly used variables. 
 let handPose;
 let video;
 let hands = [];
