@@ -1,6 +1,6 @@
 # Links to Videos ฅ^•ﻌ•^ฅ
 
-## Digital tools - Chroma Keying
+## Digital Tools - Chroma Keying
 
 [Chroma Key Video](https://youtu.be/QQv_5pRieIE)
 
