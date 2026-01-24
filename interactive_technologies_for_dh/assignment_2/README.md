@@ -8,6 +8,6 @@
 
 [HandPose Detection]()
 
-[FaceMesh Detection]()
+[FaceMesh Detection](https://youtu.be/23gqfrDvyNo)
 
 [Body Posture Detection](https://youtu.be/x4c13_-YUyw)
