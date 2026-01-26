@@ -16,7 +16,7 @@
 
 The video was created and is hosted in Lumi. Videos and screenshots are all royalty-free.
 
-[Interactive Cat Video](https://app.lumi.education/run/ajwr9v)
+[Interactive Cat Video](https://app.lumi.education/run/ARgZe_)
 
 ## Digital Tools - Photogrammetry
 
