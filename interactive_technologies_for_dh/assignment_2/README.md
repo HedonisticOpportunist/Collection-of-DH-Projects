@@ -12,6 +12,10 @@
 
 [Body Posture Detection](https://youtu.be/x4c13_-YUyw)
 
+## Digital Tools - Interactive Video
+
+[Interactive Cat Video](https://app.lumi.education/run/ajwr9v)
+
 ## Digital Tools - Photogrammetry
 
 Images taken from the following [data set](https://gitlab.com/photogrammetry-test-sets/skull-cameramoves-flash-no-background) (kindly provided for free ❤). 
