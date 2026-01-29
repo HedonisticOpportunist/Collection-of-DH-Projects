@@ -2,7 +2,7 @@
 
 ## Digital Tools - Chroma Keying
 
-[Chroma Key Video](https://youtu.be/QQv_5pRieIE)
+[Chroma Key Video](https://youtu.be/QQv_5pRieIE) 🐙
 
 ## Digital Tools - ML5J
 
@@ -23,11 +23,11 @@ The video was created using and is hosted in Lumi. Videos and screenshots are al
 Images taken from the following [data set](https://gitlab.com/photogrammetry-test-sets/skull-cameramoves-flash-no-background) (kindly provided for free ❤). 
 Modelling done in Polycam, and hosted on p3d.in. 
 
-[Skull](https://p3d.in/paeCQ)
+[Skull](https://p3d.in/paeCQ) 💀
 
 ## Digital Tools - TinkerCAD and Circuits
 
-[Demo](https://youtu.be/gc_aV501DD4)
+[Demo](https://youtu.be/gc_aV501DD4) 🎧
 
 [Circuit Share Link](https://www.tinkercad.com/things/4N2XYcjNFju-headphones-circuit/editel?returnTo=%2Fthings%2F4N2XYcjNFju-headphones-circuit&sharecode=hfKttuH-h7rXS2_sBZcuZOtogdfIYYBJHYPZeB_1WLU )
 
