@@ -1,0 +1,1640 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#F1C232" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#B4A7D6" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#674EA7" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S24">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#6FA8DC" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S25">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#76A5AF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S26">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#C27BA0" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S27">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#A2C4C9" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S28">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#45818E" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S29">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#B6D7A8" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S30">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#F6B26B" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S31">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#DD7E6B" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S32">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#93C47D" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S33">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#A4C2F4" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S34">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#FF9900" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S35">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#B45F06" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S36">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#38761D" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S37">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#4A86E8" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S38">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#6AA84F" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S39">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Bold="1" ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#00FFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S40">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior ss:Color="#00FFFF" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S41">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S42">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="31" ss:ExpandedColumnCount="24">
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="103.5" />
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="37.5" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="80.25" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="75.75" />
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="115.5" />
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="55.5" />
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="53.25" />
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="55.5" />
+   <Column ss:Index="9" ss:Span="2" ss:AutoFitWidth="0" ss:Width="50.25" />
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="55.5" />
+   <Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="43.5" />
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="71.25" />
+   <Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="81" />
+   <Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="109.5" />
+   <Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="52.5" />
+   <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="120" />
+   <Column ss:Index="22" ss:AutoFitWidth="0" ss:Width="96.75" />
+   <Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="96" />
+   <Column ss:Index="24" ss:AutoFitWidth="0" ss:Width="8.25" />
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">workID / imageID</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">title</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">agent (role=artist)</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">project source</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">agent (role=photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S26"><Data ss:Type="String">date.type</Data>
+    </Cell>
+    <Cell ss:StyleID="S27"><Data ss:Type="String">date.value</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">description</Data>
+    </Cell>
+    <Cell ss:StyleID="S29"><Data ss:Type="String">material</Data>
+    </Cell>
+    <Cell ss:StyleID="S30"><Data ss:Type="String">technique</Data>
+    </Cell>
+    <Cell ss:StyleID="S31"><Data ss:Type="String">subject</Data>
+    </Cell>
+    <Cell ss:StyleID="S32"><Data ss:Type="String">workType</Data>
+    </Cell>
+    <Cell ss:StyleID="S33"><Data ss:Type="String">imageType</Data>
+    </Cell>
+    <Cell ss:StyleID="S34"><Data ss:Type="String">image format</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">location</Data>
+    </Cell>
+    <Cell ss:StyleID="S35"><Data ss:Type="String">location.site</Data>
+    </Cell>
+    <Cell ss:StyleID="S36"><Data ss:Type="String">location.creation</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">location.documentation</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">rights</Data>
+    </Cell>
+    <Cell ss:StyleID="S38"><Data ss:Type="String">image.source</Data>
+    </Cell>
+    <Cell ss:StyleID="S37"><Data ss:Type="String">relation (type = collection)</Data>
+    </Cell>
+    <Cell ss:StyleID="S28"><Data ss:Type="String">inscription.language</Data>
+    </Cell>
+    <Cell ss:StyleID="S39"><Data ss:Type="String">digitalSurrogate</Data>
+    </Cell>
+    <Cell ss:StyleID="S40" />
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaTrashBin</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Green Public Waste Bin at Night</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Night‑time photograph of a green public waste bin featuring white graffiti lettering. The bin is mounted on a metal pole along a residential sidewalk in Vienna. Streetlights illuminate the surrounding hedges and apartment buildings.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on metal waste bin</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Public waste bin; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">graffiti on public object (tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">metal waste bin</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaTrashBin</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaRustPanels</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Rusted Metal Construction Panels</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of multiple graffiti tags painted on rusted metal construction panels. The surface shows heavy corrosion and layered markings in white and black. A metal railing runs horizontally across the lower part of the scene, providing context for the location. The image documents urban graffiti on temporary or industrial structures in Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on rusted metal construction panels</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tags (layered)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Construction barrier; Rusted metal panels; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">construction barrier graffiti (multi‑tag surface)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">rusted metal construction panels</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaRustPanels</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaStonePanel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Stone Wall with Metal Mesh</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of graffiti painted on a stone‑textured wall with a metal mesh barrier along the lower edge. The artwork features bold white lettering with dark blue outlines and smaller tags in green and blue. The image documents urban graffiti on architectural surfaces in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on stone wall with metal mesh</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted lettering</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Stone wall; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">lettering graffiti (tag / throw‑up hybrid)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">stone wall with metal mesh</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaStonePanel</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUtilityBox</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Electrical Utility Box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of an outdoor electrical utility box mounted on a wall, marked with brown spray‑painted numbers and letters. The surface shows wear, stickers, and a hazard symbol. The image documents urban graffiti on public infrastructure in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on metal utility box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Utility box; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">graffiti on public object (tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">metal electrical utility box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUtilityBox</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaSmiley107</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Smiley and Number Tag on Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of blue spray‑painted graffiti on a textured wall, featuring a simple smiley face above a stylised numeric tag. The image documents minimalistic graffiti markings in an urban residential setting in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on textured wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted symbol/tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Wall; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">tag (symbolic tag / smiley motif)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">textured wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaSmiley107</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaOrangeTagWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Orange Tag on Building Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of orange spray‑painted graffiti on the lower façade of a residential building. The tag consists of stylised abstract lines painted on a light grey wall beneath a beige upper section with a balcony. The image documents graffiti on residential architecture in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on plastered building façade</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted abstract tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Building wall; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">tag (abstract line tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">plastered building façade</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaOrangeTagWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPostBoxWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Wall Behind Public Post Box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a yellow public post box mounted on a concrete wall marked with black spray‑painted graffiti. The wall shows signs of wear and grime, and a parking garage with parked cars is visible to the right. The image documents graffiti on public infrastructure in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Public infrastructure; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">graffiti on public object (tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete wall behind public post box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPostBoxWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaBikeRackWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Wall Behind Bicycle Parking Area</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a long graffiti‑covered wall behind a bicycle parking area with metal racks and a single parked bicycle. The wall features multiple colourful tags and pieces, with a modern building visible above it. The image documents graffiti in a mixed urban setting in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted pieces and tags</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Bicycle parking; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">piece (multi‑piece wall)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">long concrete wall behind bicycle racks</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaBikeRackWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUnderwaterCeiling</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Underwater Ceiling Mural at Alfred‑Kubin‑Platz</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a painted ceiling depicting an underwater scene with marine animals, including a shark and dolphins. The textured ceiling is rendered in layered blue and green tones, illuminated by an indoor light fixture. The artwork is located at Alfred‑Kubin‑Platz in Vienna and represents a site‑specific public mural.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">acrylic or wall paint on ceiling surface</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Street art; Mural; Public art; Urban environment; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (site‑specific public art)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">ceiling surface of underpass</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUnderwaterCeiling</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaStWendelinGasseWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Wall on St. Wendelin‑Gasse</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a turquoise building façade covered with multiple graffiti tags in various colours and styles. The wall includes barred windows, a street sign for St. Wendelin‑Gasse, and a no‑parking sign marked “Anfang.” The graffiti ranges from large white lettering to smaller tags and symbols, documenting a dense cluster of street art in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on building façade</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tags and pieces (layered)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Residential architecture; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">layered graffiti (multi‑tag façade)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">turquoise building façade</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaStWendelinGasseWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaCatGraffitiAd</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Cat Graffiti on Advertisement Panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a commercial advertisement panel altered with a hand‑drawn cat graffiti in black marker. The drawing includes a stylised cat face with a bow and a cigarette, contrasting with the printed food advertisement beneath it. The image documents the interaction between street art and commercial visual culture in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">marker on printed advertisement panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">hand‑drawn graffiti (marker)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Advertising surfaces; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">altered advertisement (adbusting)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">printed advertisement panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaCatGraffitiAd</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaRIPLexiMural</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">“RIP Lexi” Dog Memorial Mural</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph of a memorial graffiti mural dedicated to a dog named Lexi. The mural features large stylised lettering, a cartoon‑like portrait of the dog, red hearts, white bones, and the dates “2012 — 2024.” Painted on a concrete wall in an urban setting, the artwork serves as a public tribute and expression of affection.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint and wall paint on concrete wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural with character art</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Memorials; Urban environment; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">memorial mural (character art + lettering)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete wall (memorial mural)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaRIPLexiMural</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPlaygroundSnailGraffiti</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Snail‑Shaped Playground Equipment</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Night-time photograph of a snail‑shaped piece of playground equipment marked with the graffiti tag “Darah.” The playground is located in a residential courtyard, with lit apartment windows visible in the background. The image captures the contrast between playful public spaces and the presence of graffiti in everyday urban settings.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on playground equipment (plastic/metal)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Playground equipment; Urban environment; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">graffiti on public object (tag on playground equipment)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">playground equipment (snail‑shaped structure)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPlaygroundSnailGraffiti</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPillar</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on Concrete Pillar at Night</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Night-time photograph of a concrete pillar in a Vienna residential complex featuring black graffiti lettering crossed out with a red “X.” The pillar stands beside the stairs and a ramp leading to an entrance, illuminated by overhead lighting.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete pillar</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag (crossed out)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Concrete pillar; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">concrete pillar graffiti (tag, crossed‑out)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete pillar</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaPillar</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_AsiaLiPoster</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on a concrete pillar at night in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti on concrete beneath an Asia’Li fruit poster in Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete wall beneath poster</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Concrete wall; Poster; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">altered advertisement (tag on poster surface)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete wall beneath poster</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_AsiaLiPoster</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_NightBarrierMusic</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Barrier Vienna Night Scene</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Urban night scene with a concrete barrier painted in colourful graffiti featuring musical symbols, a cartoon animal in a Santa hat, and a stylised landscape; illuminated storefronts in the background; Vienna.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint and wall paint on concrete barrier</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural with character motifs</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Concrete barrier; Night scene; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (character art + symbolic motifs)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete barrier</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_NightBarrierMusic</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_RedLips</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Vienna Red Lips</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Abstract red‑lip graffiti concept developed as part of a Vienna‑based street art project.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on urban surface</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted motif</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Urban Art; Vienna; Lips Motif</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">motif graffiti (abstract lips motif)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">urban wall surface</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_RedLips</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_Purr </Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Vienna Purr</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A photograph of a black spray‑paint tag on a concrete pillar in Vienna, showing the raw texture of the surface and the graffiti's expressive character within its urban environment.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete pillar</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Urban Art; Vienna; Street Tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">tag (single‑word expressive tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete pillar</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_Vienna_Purr </Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUnfug</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Vienna Unfug Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A photograph of a graffiti‑covered wall in Vienna featuring bold lettering and multiple tags. The image captures the layered visual language of street art and the surrounding urban environment.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on public wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted layered graffiti</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Urban Art; Vienna; Street Writing; Public Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">layered graffiti (multi‑tag wall)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">public wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaUnfug</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaYellowPostalBox</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Vienna Yellow Postal Box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A photograph of a yellow postal box in Vienna marked with expressive red graffiti. The image highlights the contrast between the vivid painted lines and the box's utilitarian surface, set within an everyday urban environment.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on metal postal box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Urban Art; Vienna; Public Object; Street Tag</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">graffiti on public object (tag)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">metal postal box</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ViennaYellowPostalBox</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_PandasOnCube</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Pandas on Cube</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti depicting two stylised panda faces painted on a concrete street barrier in Vienna. The artwork combines playful character illustration with urban street‑art aesthetics, transforming a functional object into a piece of public visual culture.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete cube</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted character art</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Painted concrete cube; Panda imagery; Public space;</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">character art (painted concrete cube)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">concrete street cube</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_PandasOnCube</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_SmileyFaceOnDoor</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Smiley Face on Door 221</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A white metal door marked with the number “221,” featuring a simple black spray‑painted smiley face. The door shows signs of rust and wear, contrasting with the playful graffiti added to its surface. Set in Vienna, the piece reflects the spontaneous, informal nature of local street art.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on metal door</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted symbol</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Smiley face motif; Metal door; Public space;</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">tag (symbolic smiley motif)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">metal door</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_SmileyFaceOnDoor</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BlueWolfLabelOnWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Blue “WOLF” Graffiti on Curved Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A bold graffiti piece featuring the word “WOLF” painted in large, stylised letters with a light blue fill, black outline, and red highlights. The artwork appears on a curved concrete wall along a pedestrian walkway, accompanied by smaller surrounding tags. The piece reflects the layered and expressive nature of Vienna’s urban street‑art environment.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on concrete wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted piece</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Lettering; Concrete wall; Public walkway;</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">piece (lettering graffiti)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">curved concrete wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BlueWolfLabelOnWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_GraffitiLandscape</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Futuristic Urban Underpass Mural at Night</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A night-time view of an urban underpass transformed through immersive mural art. The ceiling is painted to resemble a futuristic or spacecraft-like interior, while the walls depict underwater scenes featuring marine imagery such as a scuba tank and oceanic backgrounds. Streetlights illuminate the wet pavement, bollards line the walkway, and nearby signage—including a “Tabak Trafik” shop sign and a 3.9m clearance marker—anchors the scene in a real city environment. The artwork creates a vivid blend of urban infrastructure and imaginative visual storytelling.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">wall paint and spray paint on underpass surfaces</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural (environmental)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Underpass; Public art; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (immersive environmental mural)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">underpass walls and ceiling</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_GraffitiLandscape</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ApothekeGraffiti</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Industrial Control‑Panel Mural in Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A mural depicting a stylised industrial control panel, featuring pipes, gauges, valves, indicator lights, and a radar‑like display. A cracked monitor displays partially legible German text, and directional signage for a nearby pharmacy is posted on the wall. The artwork transforms an ordinary urban surface into a playful, machine‑like visual environment.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">wall paint and spray paint on utility wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural (industrial aesthetic)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Mural; Industrial aesthetics; Utility wall; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (industrial‑aesthetic mural)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">utility wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_ApothekeGraffiti</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_AstronauntGraffiti</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Astronaut Mural with Graffiti Overlays in Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A mural depicting a floating astronaut surrounded by spherical, planet‑like forms against a yellow‑purple cosmic background. The artwork has been heavily tagged with multiple graffiti inscriptions, creating a layered contrast between the original space‑themed painting and spontaneous urban markings.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">wall paint + spray paint overlays</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural with graffiti tags</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street art; Urban environment; Mural; Astronaut motif; Vandalism; Vienna</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (space‑themed mural with graffiti overlays)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural wall surface</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_AstronauntGraffiti</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BlackPlateGraffiti</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">SUB ZERO Graffiti Tag on Wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A photograph of a wall-mounted panel covered with multiple graffiti tags in various colours, including a prominent “SUB ZERO” tag in white, along with additional tags in black, pink, and blue.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on wall‑mounted panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted multi‑tag surface</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Tagging; Street Art; Urban Art</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">layered graffiti (multi‑tag panel)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">wall‑mounted panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BlackPlateGraffiti</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BusStopAtNight</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Tags on Bus Shelter Panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A night-time photograph of a bus‑shelter panel featuring graffiti tags in pink and black on the lower section, with torn posters and strong diagonal shadows across the upper panels. The surrounding pavement appears wet, and streetlights illuminate the background.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint on bus‑shelter panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray‑painted tags</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Tagging; Street Art; Urban Art</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">tag (multi‑tag surface on shelter)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">bus‑shelter panel</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_BusStopAtNight</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="30">
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_CartoonsOnWall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti Artwork on Concrete Barrier</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">A night-time photograph of a concrete barrier painted with multiple colourful graffiti motifs, including abstract shapes, circular symbols, and stylised face‑like figures. The barrier is situated in an urban outdoor setting with a sidewalk, benches, a tree, and nearby buildings visible in the background.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">spray paint and wall paint on concrete barrier</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">painted mural with character motifs</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Graffiti; Street Art; Urban Art; Painted Mural</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">mural (character art + abstract motifs)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">concrete barrier</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">GRAFFITI_CartoonsOnWall</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="31">
+    <Cell ss:StyleID="S42"><Data ss:Type="String">GRAFFITI_CatShowingTongue</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Heart-Eyed Alley Cat</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Unknown</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita’s Vienna Graffiti Project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Anita (photographer)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">photograph</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">2026‑02</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">A whimsical graffiti cat painted on a textured wall, featuring oversized heart-shaped eyes, a long tongue sticking out, and exaggerated whiskers. The artwork has a loose, spontaneous energy typical of street art, blending humour and attitude in a simple black‑spray aesthetic.</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">spray paint on textured wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">spray‑painted character illustration</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">Cat; Urban Art; Spray‑Paint Illustration</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">character graffiti (stylised cat motif)</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Still Image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">JPEG image</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">textured wall</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Vienna, Austria</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Photograph © Anita. Graffiti artwork © original creators. Used for educational and documentation purposes.</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Self‑published digital collection for course project</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">Part of the Graffiti in Vienna Collection</Data>
+    </Cell>
+    <Cell ss:StyleID="S41"><Data ss:Type="String">und</Data>
+    </Cell>
+    <Cell ss:StyleID="S42"><Data ss:Type="String">GRAFFITI_CatShowingTongue</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
