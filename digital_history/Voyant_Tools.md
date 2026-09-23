@@ -13,4 +13,5 @@ Loading the corpus took a considerable amount of time as well.
 ### References 
 
 [1] https://dh.sites.gettysburg.edu/toolkit/tools/voyant-tools/ 
+
 [2] https://www.gutenberg.org/cache/epub/4018/pg4018-images.html
