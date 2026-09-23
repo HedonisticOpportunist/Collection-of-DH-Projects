@@ -12,6 +12,8 @@ I had to upload the HTML version of the text because the TXT file wouldn’t loa
 
 Loading the corpus also took a long time because Voyant Tools had difficulty fetching it directly from Project Gutenberg due to a JSON parsing error. More specifically, Voyant Tools attempted to fetch the Project Gutenberg HTML page as a URL-based corpus, but the server returned incomplete or invalid data (as seen in the screenshot, via Developer Tools). 
 
+## Screenshot
+
 [Voyant JSON Error (Screenshot](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/resources/voyant_issue.png)
 
 ### References 
