@@ -6,13 +6,11 @@ The following segment explores [Voyant Tools](https://voyant.lincsproject.ca), a
 
 ## Observations 
 
-I had to upload the HTML version of the text because the TXT file wouldn’t load properly in Voyant. It also took me a while to realise that Voyant requires you to copy and paste the corpus URL into the input box rather than uploading the link directly.
-
-Loading the corpus also took a considerable amount of time. Voyant Tools had difficulty fetching the corpus directly from Project Gutenberg because of a JSON parsing error, which suggests the remote text loader cannot reliably process certain external URLs.
+I had to upload the HTML version of the text because the TXT file wouldn’t load properly in Voyant. It also took me a while to realise that Voyant requires you to copy and paste the corpus URL into the input box rather than uploading the link directly. 
 
 ## Tool Limitations
 
-Voyant Tools attempted to fetch the Project Gutenberg HTML page as a remote corpus, but the server returned incomplete or invalid data. Voyant expects a JSON‑formatted response when loading external URLs, and when it can't parse the response, the fetcher crashes. This results in the error shown in the browser console (“Unexpected end of JSON input”) and prevents the corpus from loading. Because of this limitation, uploading a local HTML file works reliably, while pasting certain external URLs does not.
+Loading the corpus also took a long time because Voyant Tools had difficulty fetching it directly from Project Gutenberg due to a JSON parsing error. More specifically, Voyant Tools attempted to fetch the Project Gutenberg HTML page as a URL-based corpus, but the server returned incomplete or invalid data (as seen in the screenshot, via Developer Tools). 
 
 [Voyant JSON Error (Screenshot](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/resources/voyant_issue.png)
 
