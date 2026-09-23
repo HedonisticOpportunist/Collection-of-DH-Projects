@@ -1,5 +1,10 @@
 # Transkribus 
 
+## Introduction
+
+## Observations
+
+## Tool Limitations
 
 ## References 
 
