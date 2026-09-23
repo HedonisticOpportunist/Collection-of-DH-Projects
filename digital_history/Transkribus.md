@@ -2,6 +2,8 @@
 
 ## Introduction
 
+I appreciated not having to download anything, and the sign-up process was easy. 
+
 ## Observations
 
 ## Tool Limitations
