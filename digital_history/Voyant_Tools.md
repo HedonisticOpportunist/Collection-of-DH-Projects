@@ -8,7 +8,7 @@ The following segment explores [Voyant Tools](https://voyant.lincsproject.ca), a
 
 I had to upload the HTML version of the text because the TXT file wouldn’t load properly in Voyant. It also took me a while to realise that Voyant requires you to copy and paste the corpus URL into the input box rather than uploading the link directly.
 
-Loading the corpus took a considerable amount of time as well. 
+Loading the corpus also took a considerable amount of time. Voyant Tools had difficulty fetching the corpus directly from Project Gutenberg because of a JSON parsing error, which suggests the remote text loader cannot reliably process certain external URLs.
 
 ### References 
 
