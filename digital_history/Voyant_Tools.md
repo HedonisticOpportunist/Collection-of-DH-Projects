@@ -14,7 +14,7 @@ Loading the corpus also took a long time because Voyant Tools had difficulty fet
 
 ## Screenshot
 
-[Voyant JSON Error (Screenshot](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/resources/voyant_issue.png)
+[Voyant JSON Error (Screenshot)](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/resources/voyant_issue.png)
 
 ### References 
 
