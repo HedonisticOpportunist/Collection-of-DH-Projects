@@ -9,7 +9,7 @@ One disadvantage, as Jarlbrink (2020) points out, is that digitisation still inv
 
 ## Tools 
 
-Entries on the following tools: 
+The following tools exist: 
 
 [Voyant](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Voyant_Tools.md)
 
