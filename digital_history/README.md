@@ -15,6 +15,8 @@ The following tools exist:
 
 [Transkribus](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Transkribus.md)
 
+Voyant Tools is used for text analysis and provides researchers with “an accessible, web-based platform” (Voyant Tools Blog, 2025). Meanwhile, Transkribus is a “comprehensive tool that uses AI-powered text recognition to digiti(s)e, transcribe, and search historical documents in any language” (CDH Utrecht, n.d.). 
+
 ## References 
 
 **Jarlbrink, J. (2020).** *All the work that makes it work: Digital methods and manual labour.*  
@@ -23,3 +25,6 @@ Helsinki University Press. https://doi.org/10.33134/HUP-5-
 
 **The legacy of Voyant Tools: How a two-decade-old innovation continues to shape digital humanities.** (2025, February 6). *Voyant Tools Blog*.  
 https://voyant-tools.info/2025/02/06/the-legacy-of-voyant-tools-how-a-two-decade-old-innovation-continues-to-shape-digital-humanities/
+
+**Transkribus.** (n.d.). *CDH Utrecht*.  
+https://cdh.uu.nl/transkribus/
