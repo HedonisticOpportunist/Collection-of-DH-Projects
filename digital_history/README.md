@@ -15,7 +15,7 @@ The following tools exist:
 
 [Transkribus](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Transkribus.md)
 
-### References 
+## References 
 
 **Jarlbrink, J. (2020).** *All the work that makes it work: Digital methods and manual labour.*  
 In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history* (pp. 113–126).  
