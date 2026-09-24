@@ -28,7 +28,7 @@ Guldi, J. (2020). The common landscape of digital history.
 In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history*.  
 Helsinki University Press. https://doi.org/10.33134/HUP-5-18
 
-**Jarlbrink, J. (2020). *All the work that makes it work: Digital methods and manual labour.*  
+Jarlbrink, J. (2020). *All the work that makes it work: Digital methods and manual labour.*  
 In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history* (pp. 113–126).  
 Helsinki University Press. https://doi.org/10.33134/HUP-5-
 
