@@ -2,11 +2,11 @@
 
 ## Why Use Digital Tools? 
 
-Johan Jarlbrink (2020) argues that, although automation has been seen as a both a promise and a threat, it has not removed the human touch from digital research. Not only because researchers creatively interpret results, but also because automation requires preparation, especially with data. Jarlbrink states that the manual work behind automation is often invisible, even though data cleaning and curation are the building blocks of digitisation. Sometimes, when software fails, manual labour can serve as a quick, handy replacement, especially when working with small data sets. Nowadays, Jarlbrink notes that librarians and archivists do much of the manual work behind digitisation, especially because OCR errors occur when digitising newspapers, for example (pp. 113-115, 117-118). 
+Johan Jarlbrink (2020) argues that, although automation has been seen as both a promise and a threat, it has not removed the human touch from digital research. Not only because researchers creatively interpret results, but also because automation requires preparation, especially with data. Jarlbrink states that the manual work behind automation is often invisible, even though data cleaning and curation are the building blocks of digitisation. Sometimes, when software fails, manual labour can serve as a quick, handy replacement, especially when working with small data sets. Nowadays, Jarlbrink notes that librarians and archivists do much of the manual work behind digitisation, especially because OCR errors occur when digitising newspapers, for example (pp. 113-115, 117-118).
 
 ## Disadvantages of Digital Tools
 
-One disadvantage, as Jarlbrink (2020) points out, is that digitisation still involves a lot of manual labour (p. 122). 
+One disadvantage, as Jarlbrink (2020) points out, is that digitisation still involves a lot of manual labour (p. 122). Moreover, Kimmo Elo (2020) notes that too much attention has been paid to the creation of digital research material, without any much regards to the data, which is problematic when many universities are creating research data management policies. The problem in creating metadata, Elo deems, is that the person responsible for curating it often decides what to retain, which then affects findability and discovery. Additionally, ongoing metadata maintenance is complicated when private institutions own its (pp. 104-107). 
 
 ## Tools 
 
