@@ -2,6 +2,10 @@
 
 ## Why Use Digital Tools? 
 
+Johan Jarlbrink (2020) argues that, although automation has been seen as a both a promise and a threat, it has not removed the human touch from digital research. Not only because researchers creatively interpret results, but also because automation requires preparation, especially with data. Jarlbrink states that the manual work behind automation is often invisible, even though data cleaning and curation are the building blocks of digitisation. Sometimes, when software fails, manual labour can serve as a quick, handy replacement, especially when working with small data sets (pp. 113-115). 
+
+## Advantages and Disadvantages 
+
 ## Tools 
 
 Entries on the following tools: 
