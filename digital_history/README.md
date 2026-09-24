@@ -8,7 +8,7 @@ Johan Jarlbrink (2020) argues that, although automation has been seen as both a 
 
 One disadvantage, as Jarlbrink (2020) points out, is that digitisation still involves a lot of manual labour (p. 122). Moreover, Kimmo Elo (2020) notes that too much attention has been paid to creating digital research material, with little regard for the data, which is problematic as many universities develop research data management policies. Elo argues that the problem with creating metadata is that the person responsible for curating it often decides what to retain, which affects findability and discovery. Additionally, ongoing metadata maintenance is complicated when private institutions own its (pp. 104-106).
 
-Jo Guldi (2020) suggests that one advantage of digitisation is that it brings together people from various landscapes and allows them to work with a variety of tools. Moreover, it encourages sscholars to step out of their comfort zone and explore skills outside their discipline (pp. 330-331).
+Jo Guldi (2020) suggests that one advantage of digitisation is that it brings together people from various landscapes and allows them to work with a variety of tools. Moreover, it encourages scholars to step out of their comfort zone and explore skills outside their discipline (pp. 330-331).
 
 ## Tools 
 
