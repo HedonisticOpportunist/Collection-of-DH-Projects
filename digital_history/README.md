@@ -6,7 +6,7 @@ Johan Jarlbrink (2020) argues that, although automation has been seen as both a 
 
 ## Disadvantages of Digital Tools
 
-One disadvantage, as Jarlbrink (2020) points out, is that digitisation still involves a lot of manual labour (p. 122). Moreover, Kimmo Elo (2020) notes that too much attention has been paid to the creation of digital research material, without any much regards to the data, which is problematic when many universities are creating research data management policies. The problem in creating metadata, Elo deems, is that the person responsible for curating it often decides what to retain, which then affects findability and discovery. Additionally, ongoing metadata maintenance is complicated when private institutions own its (pp. 104-107). 
+One disadvantage, as Jarlbrink (2020) points out, is that digitisation still involves a lot of manual labour (p. 122). Moreover, Kimmo Elo (2020) notes that too much attention has been paid to the creation of digital research material, without any much regards to the data, which is problematic when many universities are creating research data management policies. The problem in creating metadata, Elo deems, is that the person responsible for curating it often decides what to retain, which then affects findability and discovery. Additionally, ongoing metadata maintenance is complicated when private institutions own its (pp. 104-106). 
 
 ## Tools 
 
