@@ -20,3 +20,6 @@ The following tools exist:
 **Jarlbrink, J. (2020).** *All the work that makes it work: Digital methods and manual labour.*  
 In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history* (pp. 113–126).  
 Helsinki University Press. https://doi.org/10.33134/HUP-5-
+
+**The legacy of Voyant Tools: How a two-decade-old innovation continues to shape digital humanities.** (2025, February 6). *Voyant Tools Blog*.  
+https://voyant-tools.info/2025/02/06/the-legacy-of-voyant-tools-how-a-two-decade-old-innovation-continues-to-shape-digital-humanities/
