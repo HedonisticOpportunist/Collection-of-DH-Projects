@@ -20,21 +20,25 @@ Amongst others, the following tools exist:
 
 ## References 
 
-Elo, K. (2020). Big data, bad metadata: A methodological note on the importance of good metadata in the age of digital history.  
-In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history*.  
+Elo, K. (2020). Big data, bad metadata: A methodological note on the importance of good metadata in the age of digital history.
+In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history*.
 Helsinki University Press. https://doi.org/10.33134/HUP-5-6
 
-Guldi, J. (2020). The common landscape of digital history.  
-In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history*.  
+Guldi, J. (2020). The common landscape of digital history.
+In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history*.
 Helsinki University Press. https://doi.org/10.33134/HUP-5-18
 
-Jarlbrink, J. (2020). *All the work that makes it work: Digital methods and manual labour.*  
-In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history* (pp. 113–126).  
+Jarlbrink, J. (2020). *All the work that makes it work: Digital methods and manual labour.*
+In M. Fridlund, M. Oiva, & P. Paju (Eds.), *Digital histories: Emergent approaches within the new digital history* (pp. 113–126).
 Helsinki University Press. https://doi.org/10.33134/HUP-5-
 
-Muehlberger, G., et al. (2019). Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study. *Journal of Documentation, 75*(5), 954–976. https://doi.org/10.1108/JD-07-2018-0114
+Muehlberger, G., et al. (2019). Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study.
+*Journal of Documentation, 75*(5), 954–976. https://doi.org/10.1108/JD-07-2018-0114
 
-**The legacy of Voyant Tools: How a two-decade-old innovation continues to shape digital humanities.** (2025, February 6). *Voyant Tools Blog*.  
-https://voyant-tools.info/2025/02/06/the-legacy-of-voyant-tools-how-a-two-decade-old-innovation-continues-to-shape-digital-humanities/
+Voyant Tools. (2025, February 6). *The legacy of Voyant Tools: How a two-decade-old innovation continues to shape digital humanities.*
+*Voyant Tools Blog.* https://voyant-tools.info/2025/02/06/the-legacy-of-voyant-tools-how-a-two-decade-old-innovation-continues-to-shape-digital-humanities/
 
-Transkribus.(n.d.). *CDH Utrecht*. https://cdh.uu.nl/transkribus/
+Centre for Digital Humanities, Utrecht University. (n.d.). *Transkribus.*
+CDH Utrecht. https://cdh.uu.nl/transkribus/
+
+
