@@ -14,7 +14,7 @@ Jo Guldi (2020) suggests that one advantage of digitisation is that it brings to
 
 Amongst others, the following tools exist: 
 
-[Voyant](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Voyant_Tools.md) Tools is used for text analysis and provides researchers with “an accessible, web-based platform” (Voyant Tools Blog, 2025)
+[Voyant Tools](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Voyant_Tools.md) is used for text analysis and provides researchers with “an accessible, web-based platform” (Voyant Tools Blog, 2025)
 
 [Transkribus](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Transkribus.md) is a “comprehensive tool that uses AI-powered text recognition to digiti(s)e, transcribe, and search historical documents in any language” (CDH Utrecht, n.d.). By using handwritten text recognition (HTR), tools like Transkribus have improved how the experience of how to “read, transcribe, process and mine historical documents” (Muehlberger et al., 2019, p. 955). 
 
