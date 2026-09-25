@@ -20,6 +20,8 @@ Amongst others, the following tools exist:
 
 ## How Digitisation Impacts Historical Research 
 
+View the [blog post here](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/posts/impact.md). 
+
 ## References 
 
 Elo, K. (2020). Big data, bad metadata: A methodological note on the importance of good metadata in the age of digital history.
