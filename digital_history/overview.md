@@ -18,6 +18,8 @@ Amongst others, the following tools exist:
 
 [Transkribus](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/blob/main/digital_history/Transkribus.md) is a “comprehensive tool that uses AI-powered text recognition to digiti(s)e, transcribe, and search historical documents in any language” (CDH Utrecht, n.d.). By using handwritten text recognition (HTR), tools like Transkribus have improved how the experience of how to “read, transcribe, process and mine historical documents” (Muehlberger et al., 2019, p. 955). 
 
+## How Digitisation Impacts Historical Research 
+
 ## References 
 
 Elo, K. (2020). Big data, bad metadata: A methodological note on the importance of good metadata in the age of digital history.
