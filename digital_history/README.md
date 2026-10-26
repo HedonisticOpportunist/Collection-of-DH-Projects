@@ -1,3 +1,3 @@
 # Digital History (•˕ •マ.ᐟ
 
-- [Assignments](https://voyant-tools.org/)
+- [Assignments](https://github.com/HedonisticOpportunist/Collection-of-DH-Projects/tree/main/digital_history/assignments)
